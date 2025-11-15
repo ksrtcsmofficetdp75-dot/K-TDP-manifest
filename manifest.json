@@ -1,0 +1,21 @@
+{
+  "name": "K-TDP BusCrypt",
+  "short_name": "K-TDP",
+  "start_url": "https://sites.google.com/view/bus-info-ksrtc-thodupuzha/home",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#167636",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://drive.google.com/uc?export=view&id=1Tf8455Ju9MqbloxG4uojeYEVW3-bRRmt",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://drive.google.com/uc?export=view&id=1HOAdWZJE4q2ldic4MjtCDgdqWCkPdugk",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
